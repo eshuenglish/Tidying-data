@@ -9,8 +9,9 @@ README.md (the current file) explains the content of each file
 
 CodeBook.md is a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data (an overview is outlined above under the run_analysis.R description)
 
-the tidyData.txt is a tidy data set that has the mean and standard deviation for each measurments with the subject ID and the activities performed
-the tidyMeanData.txt is a tidy data set that has the average of all variables grouped by subject ID and the activities performed
+The tidyData.txt is a tidy data set that has the mean and standard deviation for each measurments with the subject ID and the activities performed.
+
+The tidyMeanData.txt is a tidy data set that has the average of all variables grouped by subject ID and the activities performed
 
 run_analysis.R is a R script that does the following:
 
